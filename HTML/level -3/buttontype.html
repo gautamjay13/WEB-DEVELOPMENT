@@ -7,13 +7,52 @@
 </head>
 <body>
     <form action="/server">
+        (checkbox)
+        <br>
         <input type="checkbox" id="age" name="age">
         <label for="age">I am 18 +</label>
         <br>
         <button>Submit</button>
-
-        <input type="radio" id="apple">
+<br>        
+        (radio button)
+        <br>
+        <input type="radio" name = "Fruit" id="apple">
         <label for="apple">Apple</label>
+         <input type="radio" name="Fruit" id="mango">
+        <label for="mango">Mango</label>
+         <input type="radio" name="Fruit" id="lichi">
+        <label for="lichi">lichi</label>
+         
+         <div>
+            (dropdown)
+            <br>
+            choose your profession :
+            <select name="profession" id="profession">
+                <option value="student">student</option>
+                <option value="developer">developer</option>
+                
+            </select>
+            <br>
+            <button>Submit</button>
+         </div>
+
+         (range) 
+         <br>
+         <label for="vol">Volume</label>
+           <input type="range" min="0" max="100" step="10" id="vol">
+           <br>
+           <button>Submit</button> 
+           <br>
+
+           (text area)
+           <br>
+            <label for="feedback">please give your feedback : </label>
+           <textarea name="feedback " id="feedback"></textarea>
+
+
+
+             
+
     </form>
     
 </body>
