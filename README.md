@@ -33,6 +33,38 @@ My goal is to become a **Job-Ready Full Stack Web Developer** by:
 - MongoDB
 
 ### 🔹 Tools
+## 📈 My Learning Strategy
+
+1. Learn the concept  
+2. Practice immediately  
+3. Build a mini project  
+4. Refactor and improve code  
+5. Push updates to GitHub  
+
+Consistency > Motivation 🔥
+
+---
+
+## 🧠 Skills I’m Improving Daily
+
+- Logical thinking  
+- Clean code writing  
+- Debugging  
+- Responsive UI design  
+- Git workflow  
+- Project structuring  
+
+---
+
+## 🏆 Long-Term Goals
+
+- Build 10+ real-world projects  
+- Create a personal portfolio website  
+- Contribute to open source  
+- Become internship & placement ready  
+- Master Full Stack Development  
+
+---
 - Git & GitHub
 - VS Code
 - Chrome DevTools
