@@ -1,4 +1,4 @@
-🚀 Web Development Journey – Learning in Public
+#🚀 Web Development Journey – Learning in Public
 
 Welcome to my Web Development Journey Repository 👋
 
