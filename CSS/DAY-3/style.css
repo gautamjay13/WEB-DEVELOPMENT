@@ -1,0 +1,13 @@
+/* Height and width */
+div{
+    height: 100px;  
+     background-color: pink;
+    border:  2px solid rgb(255, 0, 255);
+    border-radius: 10px;
+}
+/* Padding property */
+div{
+padding: 5px;
+margin: 5px;
+}
+
