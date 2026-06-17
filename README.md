@@ -30,7 +30,7 @@ My goal is to become a **Job-Ready Full Stack Web Developer** by:
 ### 🔹 Backend (Upcoming Phase)
 - Node.js
 - Express.js
-- MongoDB
+- MongoDB 
 
 ### 🔹 Tools
 ## 📈 My Learning Strategy
