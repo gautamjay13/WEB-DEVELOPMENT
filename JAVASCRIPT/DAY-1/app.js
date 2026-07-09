@@ -1,9 +1,4 @@
-console.log("voting time");
-let age = 23 ;
-if (age>18) {
-    console.log("yon can vote")
-}
-
-// output :
-// voting time
-// you can vote
+// variable to kaise banate hai 
+let name = "jay gautam" ;
+let age = 20 ; 
+console.log(name, age) ;
