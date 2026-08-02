@@ -18,5 +18,5 @@ for ( let i = 2 ; i <argv.length ;i++){
 const some  = require("./math"); 
 console.log(some);
 
-console.log("using the math function ", some.sum(2,2));
+console.log("using the math function : ", some.sum(2,2));
 
